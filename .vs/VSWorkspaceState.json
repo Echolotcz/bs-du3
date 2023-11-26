@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\server",
+    "\\server\\config",
+    "\\server\\controllers",
+    "\\server\\middleware",
+    "\\server\\models",
+    "\\server\\routes",
+    "\\server\\tests",
+    "\\server\\utils"
+  ],
+  "SelectedNode": "\\server\\config",
+  "PreviewInSolutionExplorer": false
+}
